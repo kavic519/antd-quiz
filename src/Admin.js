@@ -45,7 +45,7 @@ const Admin = () => {
             <Footer style={{
         textAlign: 'center',
       }}
-      >Quiz管理系统 ©2025 Created by gjh</Footer>
+      >Quiz管理系统 by rqq</Footer>
     </Layout>
     </>
   );
